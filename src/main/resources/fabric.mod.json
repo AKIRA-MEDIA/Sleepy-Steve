@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "sleepy-steve",
+  "version": "${version}",
+  "name": "Sleepy-Steve",
+  "description": "A simple Minecraft Mod that allows Steve to actually close his eyes and sleep.",
+  "authors": [],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/sleepy-steve/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "media.akira.sleepysteve.client.SleepySteveDataGenerator"
+    ],
+    "client": [
+      "media.akira.sleepysteve.client.SleepySteveClient"
+    ],
+    "main": [
+      "media.akira.sleepysteve.SleepySteve"
+    ]
+  },
+  "mixins": [
+    "sleepy-steve.mixins.json",
+    {
+      "config": "sleepy-steve.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric-api": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

@@ -1,0 +1,32 @@
+# Gradle
+.gradle/
+build/
+out/
+classes/
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code / Eclipse
+.vscode/
+.settings/
+bin/
+.classpath
+.project
+*.launch
+
+# Fabric dev run folder
+run/
+
+# Java crash/profiler logs
+hs_err_*.log
+replay_*.log
+*.hprof
+*.jfr
+
+# OS
+.DS_Store
+Thumbs.db

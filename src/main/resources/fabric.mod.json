@@ -5,7 +5,11 @@
   "name": "Sleepy-Steve",
   "description": "A simple Minecraft Mod that allows Steve to actually close his eyes and sleep.",
   "authors": [],
-  "contact": {},
+  "contact": {
+    "homepage": "https://github.com/AKIRA-MEDIA/Sleepy-Steve",
+    "sources": "https://github.com/AKIRA-MEDIA/Sleepy-Steve",
+    "issues": "https://github.com/AKIRA-MEDIA/Sleepy-Steve/issues"
+  },
   "license": "MIT",
   "icon": "assets/sleepy-steve/icon.png",
   "environment": "*",

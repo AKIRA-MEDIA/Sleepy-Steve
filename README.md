@@ -1,6 +1,6 @@
 # Sleepy Steve
 
-*A simple Minecraft mod that lets Steve actually close his eyes and sleep.*
+*Heavy eyelids, slow blinks, and a soft fade to black. Sleeping, the way it should feel. A lightweight, client-side mod for a more immersive night’s sleep.*
 
 ![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-62B47A)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-DBD0B4)

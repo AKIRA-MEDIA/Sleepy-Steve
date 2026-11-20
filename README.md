@@ -59,8 +59,6 @@ The blur respects your **Menu Background Blur** setting (*Options → Accessibil
 3. Download the latest `sleepy-steve-x.x.x.jar` from [Modrinth](https://modrinth.com/mod/sleepy-steve), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sleepy-steve) or the [Releases page](https://github.com/AKIRA-MEDIA/Sleepy-Steve/releases).
 4. Put both jars in your `mods` folder and launch the game.
 
----
-
 ### Client or server?
 Sleepy Steve is currently **client-side**: install it on your own game, and it works on any server, including vanilla ones. Other players don't need it, and it only affects the screen of the player who has it installed.
 

@@ -1,12 +1,19 @@
 # Sleepy Steve
 
-*Get a Better Night’s Sleep in Minecraft.*
-
-*This is a lightweight, client-side mod that makes sleeping more immersive.*
-
-![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-62B47A)
-![Fabric](https://img.shields.io/badge/Loader-Fabric-DBD0B4)
-![License: MIT](https://img.shields.io/badge/License-MIT-blue)
+<p align="center">
+  <em>Get a Better Night’s Sleep in Minecraft.</em>
+  <br>
+  <em>This is a lightweight, client-side mod that makes the sleeping mechanic more immersive.</em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-26.3-62B47A" alt="Minecraft 26.3">
+  <img src="https://img.shields.io/badge/Loader-Fabric-DBD0B4" alt="Fabric">
+  <img src="https://img.shields.io/badge/License-MIT-blue" alt="License: MIT">
+</p>
+<p align="center">
+  <a href="https://modrinth.com/mod/sleepy-steve"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_vector.svg" alt="Available on Modrinth" height="56"></a>
+  <a href="https://www.curseforge.com/minecraft/mc-mods/sleepy-steve"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/curseforge_vector.svg" alt="Available on CurseForge" height="56"></a>
+</p>
 
 I created this mod to make sleeping in Minecraft more realistic. The current sleeping animation is quite dated especially having chat open when you sleep, despite the night skipping within a few seconds. That and well, it does not make much sense in single-player.
 
@@ -49,7 +56,7 @@ The blur respects your **Menu Background Blur** setting (*Options → Accessibil
 
 1. Install [Fabric Loader](https://fabricmc.net/use/) for Minecraft 26.3.
 2. Download [Fabric API](https://modrinth.com/mod/fabric-api) for 26.3.
-3. Download the latest `sleepy-steve-x.x.x.jar` from the [Releases page](https://github.com/AKIRA-MEDIA/Sleepy-Steve/releases).
+3. Download the latest `sleepy-steve-x.x.x.jar` from [Modrinth](https://modrinth.com/mod/sleepy-steve), [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sleepy-steve) or the [Releases page](https://github.com/AKIRA-MEDIA/Sleepy-Steve/releases).
 4. Put both jars in your `mods` folder and launch the game.
 
 ### Client or server?
@@ -62,7 +69,7 @@ Sleepy Steve is currently **client-side**: install it on your own game, and it w
 - [ ] Config options for fade speed, blink timing and which HUD elements to hide
 - [X] ~~Hide Experience Bar~~
 - [ ] Port to other versions and loaders
-- [ ] Post on CurseForge and Modrinth
+- [X] ~~Post on CurseForge and Modrinth~~
 
 ---
 

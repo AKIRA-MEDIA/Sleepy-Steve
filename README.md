@@ -1,9 +1,8 @@
 # Sleepy Steve
 
-*Get a Better Night’s Sleep in Minecraft.
+*Get a Better Night’s Sleep in Minecraft.*
 
-This is a lightweight, client-side mod that makes sleeping more immersive.
-*
+*This is a lightweight, client-side mod that makes sleeping more immersive.*
 
 ![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-62B47A)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-DBD0B4)

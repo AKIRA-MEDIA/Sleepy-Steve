@@ -30,3 +30,7 @@ replay_*.log
 # OS
 .DS_Store
 Thumbs.db
+
+# Local media (not part of the mod)
+/recordings/
+/gifs/

@@ -27,6 +27,8 @@ public class SleepySteveClient implements ClientModInitializer {
         hideWhileSleeping(VanillaHudElements.FOOD_BAR);
         hideWhileSleeping(VanillaHudElements.ARMOR_BAR);
         hideWhileSleeping(VanillaHudElements.CHAT);
+        hideWhileSleeping(VanillaHudElements.INFO_BAR);
+        hideWhileSleeping(VanillaHudElements.EXPERIENCE_LEVEL);
 
         ClientTickEvents.END_CLIENT_TICK.register(client -> {
             SleepFade.tick();

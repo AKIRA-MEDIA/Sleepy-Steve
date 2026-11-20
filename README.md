@@ -60,7 +60,7 @@ Sleepy Steve is currently **client-side**: install it on your own game, and it w
 ## Planned
 
 - [ ] Config options for fade speed, blink timing and which HUD elements to hide
-- [ ] Hide Experience Bar
+- [X] ~~Hide Experience Bar~~
 - [ ] Port to other versions and loaders
 - [ ] Post on CurseForge and Modrinth
 

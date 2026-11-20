@@ -13,6 +13,9 @@ I created this mod to make sleeping in Minecraft more realistic. The current sle
 
 ---
 
+<img width="500" height="279" alt="sleeping-example-mod-enabled-1 0 3" src="https://github.com/user-attachments/assets/60cc364f-4261-46e3-bad5-1c5d90579044" />
+
+
 ## Features
 
 ### Falling asleep

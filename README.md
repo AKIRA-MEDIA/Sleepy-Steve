@@ -14,7 +14,7 @@ I created this mod to make sleeping in Minecraft more realistic. The current sle
 ---
 
 <p align="center">
-  <img src="gifs/sleeping-example-mod-enabled-1.0.3.gif" width="600" alt="Screen fading to black with blinks as the player falls asleep">
+  <img src="gifs/sleeping-example-mod-enabled-1.0.3.gif" width="500" alt="Example of Mod">
 </p>
 
 ## Features

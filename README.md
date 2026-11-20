@@ -1,12 +1,15 @@
 # Sleepy Steve
 
-*Heavy eyelids, slow blinks, and a soft fade to black. Sleeping, the way it should feel. A lightweight, client-side mod for a more immersive night’s sleep.*
+*Get a Better Night’s Sleep in Minecraft.
+
+This is a lightweight, client-side mod that makes sleeping more immersive.
+*
 
 ![Minecraft 26.3](https://img.shields.io/badge/Minecraft-26.3-62B47A)
 ![Fabric](https://img.shields.io/badge/Loader-Fabric-DBD0B4)
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-In vanilla Minecraft, going to bed means staring at a chat box and a big "Leave Bed" button while the screen dims a little. Sleepy Steve turns it into something that feels like actually falling asleep: your eyes get heavy, you blink, the world goes soft and dark, and you wake up groggy in the morning.
+I created this mod to make sleeping in Minecraft more realistic. The current sleeping animation is quite dated especially having chat open when you sleep, despite the night skipping within a few seconds. That and well, it does not make much sense in single-player.
 
 ---
 
@@ -51,16 +54,12 @@ Sleepy Steve is currently **client-side**: install it on your own game, and it w
 
 ---
 
-## Known limitations
-
-- **Brief flash of the vanilla bed screen.** For a single frame when you get into bed, you may see the vanilla chat screen before Sleepy Steve replaces it.
-- **Night skip timing is vanilla.** The server still skips the night after the standard 5 seconds of sleep, which lines up with the default fade length.
-
 ## Planned
 
-- [ ] Server-side support, so the night only skips once every sleeping player's screen has fully faded
 - [ ] Config options for fade speed, blink timing and which HUD elements to hide
-- [ ] Skip the wake-up effect with Escape
+- [ ] Hide Experience Bar
+- [ ] Port to other versions and loaders
+- [ ] Post on CurseForge and Modrinth
 
 ---
 
